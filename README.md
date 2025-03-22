@@ -1,47 +1,31 @@
-# **Rise of the Virus – Serious Educational Game (Android-Based FPS)**
-
-## **Note:** 
-This game is not an exact representation of the human body but provides a conceptual simulation for educational purposes.
+# **Spaceship Exostrike Void Assault – Multiplayer Space Shooter Game**
 
 ## **Overview**
-**Rise of the Virus** is an **educational Android-based serious game** that blends **first-person shooter (FPS) mechanics with immersive learning**. 
-Players take on the role of an elite soldier tasked with eliminating a deadly virus infecting the human body. 
-Through action-packed gameplay, the game educates players on **virology, the immune system, and parasites look**, making science **interactive and engaging**.
+**Galactic Showdown** is a **fast-paced multiplayer space shooter** where players engage in **intense spaceship battles** across the galaxy. With customizable ships, strategic power-ups, and dynamic battle arenas, players must **outmaneuver and outgun their opponents** to claim victory. Designed for **mobile and PC**, this game blends **skill-based combat with tactical decision-making**, offering a thrilling space warfare experience.
 
-## **Features**
-- 🎮 **Interactive Missions** – Explore different organs, fighting virus threats while learning how few virus look like.
-<!-- - ⚔️ **Engaging FPS Combat** – Use medical weapons like **Antibody Blasters** and **Vaccine Grenades**.  -->
-<!-- - 🎨 **Immersive UI & Sound Design** – High-quality visuals and audio enhance the educational experience. -->
+## **Game Features**
+- 🚀 **1v1 & Team Battles** – Challenge friends or team up in intergalactic warfare.
+- ⚡ **Dynamic Power-ups** – Collect shields, laser cannons, and EMP blasts to gain an edge.
+- 🛠️ **Ship Customization** – Upgrade weapons, armor, and thrusters for a unique playstyle.
+- 🌌 **Diverse Arenas** – Battle in asteroid fields, space stations, and black hole zones.
+- 🎮 **Cross-Platform Multiplayer** – Compete across mobile and PC with seamless gameplay.
+- 🏆 **Ranked Matches & Leaderboards** – Climb the ranks and prove your dominance in the galaxy.
 
-## **Gameplay Mechanics**
-- Navigate through the **human body**, battling viruses and restoring immune defenses.
-- Experience a **story-driven campaign** linking real-world diseases to engaging in-game missions.
+## **Responsibilities**
+- **Game Design & Development:** Creating immersive space combat mechanics.
+- **Multiplayer Integration:** Implementing online matchmaking, leaderboards, and real-time battles.
+- **UI/UX Design:** Ensuring intuitive controls and an engaging interface.
+- **Customization & Progression:** Designing ship upgrades, skins, and in-game achievements.
+- **Audio & Visual Effects:** Crafting explosive sound effects and visually stunning cosmic environments.
 
-## **Educational Benefits**
-- **Enhances Engagement** – Gamification encourages retention of medical concepts.
-- **Encourages Problem-Solving** – Players strategize to defeat evolving viral threats.
-
-## **Target Audience**
-- **Students & Educators** – Ideal for high school and university-level.
-- **Pre-school kids** – Engaging for those interested the looks of human body and it's parasite.
-- **Serious Gamers** – Provides a unique blend of action and knowledge.
-
-## **To Play (Only for Desktop, not available for Android)**
-click link: https://oluwalademi.github.io/rise-of-the-virus/
+## **Installation**
+1. Download the game from the official website or app store.
+2. Install and launch the game on your device.
+3. Create an account and start battling against players worldwide.
 
 ## **Development Tools**
-- **Game engine**: Unity
-- **Programming language**: C#
-- **Design tools**: Photoshop, Figma
-- **Animation and Rigging**: Blender
-- **3D modeling**: Blender
+- **Game Engine:** Unity
+- **Programming Language:** C#
+- **Design Tools:** Blender, Photoshop, Figma
 
-<!-- ## **License**
-MIT License. Feel free to modify and contribute!
-
-## **Contribute**
-We welcome contributions! Submit issues and pull requests to help improve the game.
--->
----
-
-### **Join the Fight, Learn & Save the Human Body!** 🚀🦠
+### **Join the Ultimate Space Battle and Prove Your Galactic Supremacy!** 🚀🌠

@@ -1,4 +1,4 @@
-**Note:** An intense spaceship battles across the galaxy. This project has been discontinued to prioritize an ongoing project.
+**Note:** This project has been discontinued to prioritize an ongoing project.
 
 # **Spaceship Exostrike Void Assault – Multiplayer Space Shooter Game**
 

@@ -1,7 +1,9 @@
+**Note:** An intense spaceship battles across the galaxy. This project has been discontinued to prioritize an ongoing project.
+
 # **Spaceship Exostrike Void Assault – Multiplayer Space Shooter Game**
 
 ## **Overview**
-**Galactic Showdown** is a **fast-paced multiplayer space shooter** where players engage in **intense spaceship battles** across the galaxy. With customizable ships, strategic power-ups, and dynamic battle arenas, players must **outmaneuver and outgun their opponents** to claim victory. Designed for **mobile and PC**, this game blends **skill-based combat with tactical decision-making**, offering a thrilling space warfare experience.
+**Spaceship exostrike: Void assault** is a **fast-paced multiplayer space shooter** where players engage in **intense spaceship battles** across the galaxy. With customizable ships, strategic power-ups, and dynamic battle arenas, players must **outmaneuver and outgun their opponents** to claim victory. Designed for **mobile and PC**, this game blends **skill-based combat with tactical decision-making**, offering a thrilling space warfare experience.
 
 ## **Game Features**
 - 🚀 **1v1 & Team Battles** – Challenge friends or team up in intergalactic warfare.
